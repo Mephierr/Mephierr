@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am something like Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am something like Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m not working now but ready for any suggestions.
 
 - :seedling: Exploring Technical Content Writing.
