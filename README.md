@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW8yOHd5cG8wMG91d3NnOGhoNHU4am5rOTcxNzh5eXJkb2pjMDI0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExdMHUDKteztyfe/giphy.webp" width="150"/>
   <div id="badges">
     <a href="https://t.me/Meowmeowmeowmeowown">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
